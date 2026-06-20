@@ -1,3 +1,4 @@
+
 # Workbench
 
 A project log for hobbyist makers — woodworkers, knitters, 3D-printing tinkerers,
@@ -79,3 +80,6 @@ components/
 db/
   schema.sql                 Full Aurora PostgreSQL schema
 ```
+
+# workbench
+
